@@ -1,0 +1,1 @@
+（22.03.02）PAMI2022 Depth and Video Segmentation Based Visual Attention for Embodied Question Answering

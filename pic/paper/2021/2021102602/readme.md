@@ -1,0 +1,1 @@
+（21.10.26）CVPR2021 Layout-Guided Novel View Synthesis from a Single Indoor Panorama

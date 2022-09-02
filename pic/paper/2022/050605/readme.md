@@ -1,0 +1,1 @@
+（22.05.06）2022 Weakly-Supervised End-to-End CAD Retrieval to Scan Objects

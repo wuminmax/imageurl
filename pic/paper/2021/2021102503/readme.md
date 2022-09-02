@@ -1,0 +1,1 @@
+（21.10.20）ECCV2020 Structured3D: A Large Photo-Realistic Dataset for Structured 3D Modeling

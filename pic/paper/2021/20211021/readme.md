@@ -1,0 +1,1 @@
+（21.10.21）CVPR2021 Spsg: Self-supervised photometric scene generation from rgb-d scans

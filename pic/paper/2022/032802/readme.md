@@ -1,0 +1,1 @@
+（22.03.28）CVPR2022 Simple but Effective: CLIP Embeddings for Embodied AI

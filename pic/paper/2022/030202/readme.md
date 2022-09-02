@@ -1,0 +1,1 @@
+（22.03.02）CVPR2022 Point-NeRF: Point-based Neural Radiance Fields

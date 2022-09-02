@@ -1,0 +1,1 @@
+（22.05.05）CVPR2022 AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation

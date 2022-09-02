@@ -1,0 +1,1 @@
+（22.03.27）2022 Block-NeRF: Scalable Large Scene Neural View Synthesis

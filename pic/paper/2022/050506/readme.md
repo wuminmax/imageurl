@@ -1,0 +1,1 @@
+（22.05.05）TOMM2022 Cross-modal Graph Matching Network for Image-text Retrieval

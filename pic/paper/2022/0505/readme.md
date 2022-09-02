@@ -1,0 +1,1 @@
+（22.05.05）CVPR2022 X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning

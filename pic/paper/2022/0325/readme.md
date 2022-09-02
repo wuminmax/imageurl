@@ -1,0 +1,1 @@
+（22.03.25）CVPR2022 PointCLIP: Point Cloud Understanding by CLIP

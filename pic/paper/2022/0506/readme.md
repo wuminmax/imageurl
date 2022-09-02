@@ -1,0 +1,1 @@
+（22.05.06）TOM2022 Zero-shot Predicate Prediction for Scene Graph Parsing
